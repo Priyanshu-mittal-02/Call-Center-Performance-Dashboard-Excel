@@ -4,7 +4,6 @@
 This repository contains an end-to-end data analysis project focusing on a regional call center's performance for the Fiscal Year 2024. Using a dataset of 1,000 individual calls, this project evaluates key operational metrics, including call volume trends, customer satisfaction, demographic behaviors, and representative efficiency. The centerpiece of this project is a highly interactive Excel dashboard designed to help management optimize staffing and enhance the overall customer experience.
 
 ## 📊 Dashboard Preview
-*(Replace the link below with the actual URL of your uploaded image in GitHub)*
 
 ![Call Center Dashboard Preview](https://github.com/Priyanshu-mittal-02/Call-Center-Performance-Dashboard-Excel/blob/8bc6c0502e9443736ee61e222bb38e0ac57893e6/CALL%20CENTER%20PNG.webp)
 
@@ -29,9 +28,9 @@ This repository contains an end-to-end data analysis project focusing on a regio
 - **Problem Solving:** Addressing specific business questions through targeted data analysis.
 
 ## 📂 Files Included
-- 📁 `Call_Center_Data_Analysis.xlsx` - The main Excel workbook containing the raw dataset, working pivot tables, and the final interactive dashboard.
-- 📄 `Problem_Statement.md` - Document detailing the background context and the key business questions addressed in this project.
-- 🖼️ `Dashboard_Preview.png` - A high-resolution image of the completed dashboard.
+- 📁 `ANALYSIS DASHBOARD+DATA.xlsx` - The main Excel workbook containing the raw dataset, working pivot tables, and the final interactive dashboard.
+- 📄 `PROBLEM STATEMENT.md` - Document detailing the background context and the key business questions addressed in this project.
+- 🖼️ `DASHBOARD PREVIEW.png` - A high-resolution image of the completed dashboard.
 - 📄 `README.md` - Project documentation and overview.
 
 ---
